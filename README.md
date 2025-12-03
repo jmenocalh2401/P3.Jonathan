@@ -13,3 +13,9 @@ Se requiere contar con una BBDD (Base de Datos) a la que conectar, que debe cont
 Puede ser MySQL, MariaDB, MongoDB, etc.
 
 Se requiere el uso de Servidor Web compatible con PHP para correr el Proyecto.
+
+## Modificaciones para su uso
+
+Se debe acudir al Fichero "index.php" para modificar los Datos a mostrar en el Ranking.
+Debe volcarse el Fichero "basedatos.sql" en la BBDD a utilizar.
+Se puede modificar dicho SQL antes de su volcado si se considera conveniente.
